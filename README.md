@@ -1,6 +1,6 @@
 # HSA
 
 ## Supplementary material for 
-**Human glycation albumin level determination from their SERS spectra using machine learning methods**
+**SERS sensor for human glycated albumin direct assay based on machine learning methods**
  
 ...
